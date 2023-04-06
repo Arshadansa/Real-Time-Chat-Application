@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+.FromContainerdSecond{
+    background-image: url(D:\project\first-react-app\src\img\image1.webp);
+    background-repeat: repeat; 
+    background-size: 60%;
+    width:70vw;
+    height:80vh;
+    display:flex;
+    margin-inline: auto;
+    position: relative;
+    top:65px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    background-color: aqua;
+}
+
+.rightFormSecond{
+        border-radius: 5px;
+        width: 36%;
+        height: 65%;
+        padding: 20px 60px;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 3px 4px 5px 6px #888888;
+        background-image: url(D:\project\first-react-app\src\img\image3.jpg);
+        background-repeat: no-repeat;
+     
+       
+     
+     
+}
+.lineSecond{
+    font-size: 11px;
+    color: #5d5b8d; 
+    margin-top: 15px; 
+    font-weight: bold; 
+}
+.bod{
+    background-image: url(D:\project\first-react-app\src\img\image3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed; 
+}

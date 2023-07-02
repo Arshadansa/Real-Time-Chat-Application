@@ -58,4 +58,4 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 ## Contact
 
-For any questions or inquiries regarding the Real-Time Chat Application, please contact the project maintainers at Khansmile646@gmail.com.
+For any questions or inquiries regarding the Real-Time Chat Application, please contact the project maintainers at Khansmile646@gmai.com
